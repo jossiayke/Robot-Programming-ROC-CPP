@@ -1,0 +1,10 @@
+Final_Project_G1_1
+Authors Hae Lee Kim, Yoseph Kebede, Mohammed Baaqail
+Ddate: 12.13.2021
+
+Instructions on how to run the program simualtion:
+1. Include the final project folder in your catkin_wa/src folder
+2. Inside your "catkin_ws" folder, run the command "catkin build" to make sure the packages has built successfully.
+3. Run command "roslaunch final_project multiple_robots.launch" 
+4. Run command "rosrun final_project final_project_node"
+5. The simulation should be launched and the explorer robot will start moving to targets.

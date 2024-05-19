@@ -1,0 +1,13 @@
+RWA2_Group_1_1
+Authors: Hae Lee Kim, Yoseph Kebede, Mohammed Baaqeel
+Date: 11.13.2021
+
+Instructions on how to run the program on the mouse simulation API
+
+Selected Goal Node: {7, 8}
+
+Place the bottom line in the API Build Command
+
+Build Command: g++ src/main.cpp src/mouse.cpp src/node.cpp src/api.cpp
+
+
